@@ -1,0 +1,16 @@
+{
+  "name": "twitter-timeline",
+  "version": "0.0.0",
+  "description": "",
+  "main": "cache-timeline.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Resig <jeresig@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-twitter-api": "^1.1.4",
+    "dotenv": "^0.2.7",
+    "mongodb": "^1.4.0"
+  }
+}
